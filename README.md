@@ -1,4 +1,4 @@
-# my_programming_diary
+# My Programming Diary
 
 A simple cli-based program with SQLite database about my diary on programming
 
